@@ -10,7 +10,8 @@
 ### Current University Subjects
 - Engineering Modelling & Design
 - Physics 2
-- Data Analysis / Statistics
+- Linear Algebra
+- Psychology and Everyday Morality
 
 ### Current Skills
 - Python: Beginner
