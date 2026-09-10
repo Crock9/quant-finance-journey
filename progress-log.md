@@ -11,7 +11,6 @@
 - Engineering Modelling & Design
 - Physics 2
 - Data Analysis / Statistics
-- [add your fourth subject if applicable]
 
 ### Current Skills
 - Python: Beginner
